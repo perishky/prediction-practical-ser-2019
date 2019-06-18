@@ -9,20 +9,20 @@ To download:
 
 ### Webpage
 
-`prediction-practical-ser-2019.html`
+`[prediction-practical-ser-2019.html](http://htmlpreview.github.io/?https://github.com/yousefi138/prediction-practical-ser-2019/prediction-practical-ser-2019.html)`
 
 ### PDF
 
-`prediction-practical-ser-2019.pdf`
+`[prediction-practical-ser-2019.pdf](prediction-practical-ser-2019.pdf)`
 
 ### R script
 
-`prediction-practical-ser-2019.R`
+`[prediction-practical-ser-2019.R](prediction-practical-ser-2019.pdf)`
 
 
 # All workshop pdfs:
 
-* These are also all hosted in the subdirectory `slides`
+* These are also all hosted in the subdirectory `[slides/](slides)`
 
 
 
